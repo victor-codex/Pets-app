@@ -1,5 +1,5 @@
 import { QueryFunction } from "@tanstack/react-query";
-import { BreedListAPIResponse, Animal } from "./types/APIResponsesTypes";
+import { BreedListAPIResponse, Animal } from "./APIResponsesTypes";
 
 const fetchBreedList: QueryFunction<
   BreedListAPIResponse,

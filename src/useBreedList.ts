@@ -1,5 +1,5 @@
 import { QueryStatus, useQuery } from "@tanstack/react-query";
-import { Animal } from "./types/APIResponsesTypes";
+import { Animal } from "./APIResponsesTypes";
 import fetchBreedList from "./fetchBreedList";
 
 export default function useBreedList(animal: Animal) {
