@@ -2,7 +2,7 @@
   "name": "pet-project",
   "version": "1.0.0",
   "description": "A pet project to test out vite and react-query",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
